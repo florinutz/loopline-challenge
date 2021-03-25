@@ -27,4 +27,6 @@ React is a must, while redux and typescript are optional, but would be appreciat
 #### Optional: Infra
 Run everything in containers glued together by some basic orchestration (e.g. docker compose) and docs for running things on our side.
 
-Please make the project available in a fork of this repo.
+Please make the project available in a **private** fork of this repo and don't forget to give me permissions to see the code.
+
+Good luck!
